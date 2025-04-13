@@ -21,7 +21,7 @@ export default function Page() {
               <u><a target="_blank" href="https://www.namecheap.com/domains/registration/results/?domain=gnosly.com">Domain for sale</a></u>
             </span> - managed by NameCheap.
             <br />
-            For more information, send an email to <strong>support@appseed.us</strong>
+            For more information, send an email to <strong>gnoslyproject@gmail.com</strong>
           </p>
         </div>
       </div>

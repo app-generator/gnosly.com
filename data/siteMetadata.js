@@ -10,11 +10,9 @@ const siteMetadata = {
   siteRepo: 'https://github.com/app-generator/gnosly.com',
   siteLogo: `${process.env.BASE_PATH || ''}/static/images/logo.png`,
   socialBanner: `${process.env.BASE_PATH || ''}/static/images/twitter-card.png`,
-  mastodon: 'https://mastodon.social/@sm0ke_dev',
-  email: 'support@appseed.us',
-  github: 'https://github.com/app-generator/gnosly.com',
+  email: 'gnoslyproject@gmail.com',
+  medium: 'https://medium.com/@gnosly',
   x: 'https://x.com/Sm0keDev',
-  linkedin: 'https://www.linkedin.com/in/adi-chirilov/',
   locale: 'en-US',
   // set to true if you want a navbar fixed to the top
   stickyNav: false,
@@ -38,9 +36,9 @@ const siteMetadata = {
     // posthogAnalytics: {
     //   posthogProjectApiKey: '', // e.g. 123e4567-e89b-12d3-a456-426614174000
     // },
-    //googleAnalytics: {
-    //  googleAnalyticsId: 'G-Q9ZST6LEDT', // e.g. G-XXXXXXX
-    //},
+    googleAnalytics: {
+      googleAnalyticsId: 'G-D7NX5ZYQYV', // e.g. G-XXXXXXX
+    },
   },
   //newsletter: {
     // supports mailchimp, buttondown, convertkit, klaviyo, revue, emailoctopus, beehive
