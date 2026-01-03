@@ -1,10 +1,11 @@
 {
+  "simple-life": 1,
+  "mental-health": 4,
+  "depression": 1,
+  "anxiety": 2,
+  "panic-attacks": 1,
   "alcohol-dependency": 1,
   "addiction": 1,
-  "mental-health": 3,
-  "panic-attacks": 1,
-  "anxiety": 2,
   "health": 1,
-  "wellness": 1,
-  "depression": 1
+  "wellness": 1
 }
