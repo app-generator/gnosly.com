@@ -3,7 +3,7 @@ const siteMetadata = {
   title: 'Gnosly',
   author: 'RoSoft',
   headerTitle: 'Gnosly',
-  description: 'Heal your mind and body. Live a happy life.',
+  description: 'Path to natural wellbeing.',
   language: 'en-us',
   theme: 'system', // system, dark or light
   siteUrl: 'https://www.gnosly.com',

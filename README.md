@@ -1,6 +1,6 @@
 # [Gnosly](https://www.gnosly.com/)
 
-Heal your mind and body. Live a happy life.
+Path to natural wellbeing.
 
 <br />
 
