@@ -25,7 +25,7 @@ export default function Footer() {
           <div>{`© ${new Date().getFullYear()}`}</div>
         </div>
         <div className="mb-8 text-sm text-gray-500 dark:text-gray-400">
-          <Link href="https://www.reddit.com/r/gnosly/">Join us on Reddit</Link>
+          <Link href="https://gnosly.substack.com/">Join the Community (Substack)</Link>
         </div>
       </div>
     </footer>

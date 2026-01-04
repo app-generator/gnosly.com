@@ -1,5 +1,7 @@
 {
-  "simple-life": 2,
+  "simple-life": 3,
+  "disease": 1,
+  "healing": 1,
   "nature": 1,
   "free-medicines": 1,
   "mental-health": 4,

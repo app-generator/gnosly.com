@@ -10,9 +10,7 @@ const siteMetadata = {
   siteRepo: 'https://github.com/app-generator/gnosly.com',
   siteLogo: `${process.env.BASE_PATH || ''}/static/images/logo.png`,
   socialBanner: `${process.env.BASE_PATH || ''}/static/images/twitter-card.png`,
-  email: 'gnoslyproject@gmail.com',
-  medium: 'https://medium.com/@gnosly',
-  x: 'https://x.com/Sm0keDev',
+  medium: 'https://gnosly.substack.com/',
   locale: 'en-US',
   // set to true if you want a navbar fixed to the top
   stickyNav: false,
