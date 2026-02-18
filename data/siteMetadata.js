@@ -3,7 +3,7 @@ const siteMetadata = {
   title: 'Gnosly',
   author: 'RoSoft',
   headerTitle: 'Gnosly',
-  description: 'Path to natural wellbeing.',
+  description: 'Evolving Prediction Algorithms for real-life use-cases.',
   language: 'en-us',
   theme: 'system', // system, dark or light
   siteUrl: 'https://www.gnosly.com',
